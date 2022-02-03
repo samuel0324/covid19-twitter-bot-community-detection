@@ -2,7 +2,7 @@ Detecting Twitter Bots in the Early Phase of COVID-19 Pandemic
 
 Author: Samuel Park
 Date of writing this README file: 12/06/2021
-Contact for questions or feedback: samu24@gmail.com
+Contact for questions or feedback: samupark24@gmail.com
 
 This project was initiated as capstone at BrainStation Online Data Sciene bootcamp.
 It is still work in progress.

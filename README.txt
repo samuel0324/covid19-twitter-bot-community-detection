@@ -1,5 +1,9 @@
 Detecting Twitter Bots in the Early Phase of COVID-19 Pandemic
 
+*NOTE*
+"capstone_samuel_park_notebook1.ipynb" and "capstone_samuel_park_notebook2.ipynb" have been archived - updates will not be made to these notebooks.
+Instead, please read README2.txt, where I explain the future direction for this project.
+
 Author: Samuel Park
 Date of writing this README file: 12/06/2021
 Contact for questions or feedback: samupark24@gmail.com

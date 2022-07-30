@@ -1,5 +1,7 @@
 Detecting Twitter Bots in the Early Phase of COVID-19 Pandemic
 
+**You can view the 2nd notebook here:https://nbviewer.org/github/samuel0324/covid19-twitter-bot-detection/blob/7778fb4370f8fa198cad2310f0023d25966d753b/capstone_samuel_park_notebook2.ipynb**
+
 Author: Samuel Park
 Date of writing this README file: 12/06/2021
 Contact for questions or feedback: samupark24@gmail.com
